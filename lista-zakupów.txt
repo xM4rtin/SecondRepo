@@ -1,2 +1,3 @@
 chleb	1
 maslo 	4
+jajka 	5
